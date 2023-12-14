@@ -1,22 +1,46 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /https://scholar.google.com/citations?hl=de&user=HQn8VuMAAAAJ/
 
-  - title: "Funded Projects"
+# main links links
+main:
+  - title: "Publications"
     url: /publications/
 
- - title: "Teaching"
-    url: /teaching/  
+  - title: "Talks"
+    url: /talks/    
 
- - title: "Videos"
-    url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+    
+ # - title: "Publications"
+  #  url: /https://scholar.google.com/citations?hl=de&user=HQn8VuMAAAAJ/
+
+  #- title: "Funded Projects"
+  #  url: /publications/
+
+# - title: "Teaching"
+ #   url: /teaching/  
+
+ #- title: "Videos"
+  #  url: /teaching/  
 
  # - title: "Talks"
   #  url: /talks/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
