@@ -6,17 +6,14 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ=en   
 
+  - title: "Funded Projects"
+    url: /funded_projects/
+
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Funded Projects"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+
+#  - title: "Videos"
+ #   url: /Videos/    
     
   - title: "Guide"
     url: /markdown/
