@@ -4,15 +4,12 @@ main:
 # main links links
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ=en
-
-  - title: "Talks"
-    url: /talks/    
+    url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ=en   
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Funded Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
