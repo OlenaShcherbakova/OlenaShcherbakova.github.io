@@ -4,7 +4,7 @@ main:
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=de&user=HQn8VuMAAAAJ/
 
   - title: "Talks"
     url: /talks/    
