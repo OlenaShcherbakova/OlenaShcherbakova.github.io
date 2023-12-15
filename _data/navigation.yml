@@ -9,11 +9,11 @@ main:
   - title: "Extra"
     url: /extra/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
 
-  - title: "Teaching experience"
-    url: /teaching_experience/  
+  #- title: "Teaching experience"
+  #  url: /teaching_experience/  
 
   - title: "Videos"
     url: /Videos/    
