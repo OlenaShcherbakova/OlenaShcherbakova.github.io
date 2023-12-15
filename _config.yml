@@ -83,9 +83,8 @@ author:
   name             : "Olena Shcherbakova"
   avatar           : "my_profile.jpg"
   #bio              : "Your biography for the left-hand sidebar"
-  location         : "Paris, Leipzig, Jena"
-  employer         : "MPI-EVA, Leipzig" 
-  employer         : "MNHN, Paris"
+  location         : "MPI-EVA, Leipzig" #Paris, Leipzig, Jena
+  employer         : "MNHN, Paris" 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "olena_shcherbakova@eva.mpg.de"
