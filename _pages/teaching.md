@@ -1,5 +1,5 @@
 ---
-permalink: /Teaching_2/
+permalink: /Teaching/
 title: "Teaching"
 ---
 
