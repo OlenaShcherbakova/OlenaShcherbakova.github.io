@@ -6,6 +6,9 @@ main:
   - title: "Funded Projects"
     url: /funded_projects/
 
+  - title: "Extra"
+    url: /extra/
+
   - title: "Teaching"
     url: /teaching/    
 
