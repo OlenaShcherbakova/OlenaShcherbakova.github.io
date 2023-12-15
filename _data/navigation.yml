@@ -1,7 +1,4 @@
-# main links links
-main:
-
-# main links links
+# main links 
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ=en   
@@ -17,18 +14,6 @@ main:
     
  # - title: "Guide"
   #  url: /markdown/
-    
- # - title: "Publications"
-  #  url: /https://scholar.google.com/citations?hl=de&user=HQn8VuMAAAAJ/
-
-  #- title: "Funded Projects"
-  #  url: /publications/
-
-# - title: "Teaching"
- #   url: /teaching/  
-
- #- title: "Videos"
-  #  url: /teaching/  
 
  # - title: "Talks"
   #  url: /talks/    
