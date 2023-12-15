@@ -9,13 +9,11 @@ title: "Funded Projects"
 
 
 <p>Understanding the mechanisms behind the variation in grammatical complexity can allow us to better understand the scope of linguistic diversity and the processes of language change. The studies in my cumulative thesis apply the data and tools that became available with computational turn in linguistic typology to answer the long-standing questions about factors shaping linguistic diversity, in particular in grammatical complexity. My thesis investigates 1) the trade-offs between case and word order, 2) the trade-off between grammatical coding of nominal and verbal marking and 3) how language external factors shape distinct dimensions of grammatical complexity. The results confirm that languages largely vary in their grammatical complexity and do not appear to follow the overarching trade-off restricting all languages to the same complexity level. Instead, the detected trade-offs are found between only some linguistic features, with some trade-offs being lineage-specific. The variation of some dimensions of grammatical complexity are better explained from the perspective of phylogenetic conservatism rather than previous suggested sociodemographic factors.</p>
-<br>
 
 ## Kinship terms variation
 </p>The project is carried out within the framework of the SALTO exchange programme between the CNRS and the MPG during my research stay (mid-September 2023—mid-January 2024) at EA lab (Ecological Anthropology, UMR 7206) at the Muséum National d’Histoire Naturelle (MNHN) in Paris, France. The estimated funding corresponds to 10000 euros. </p>
 
 <p> This project aims to test Greenberg’s implicational hierarchy of gender distinctions in kinship terms (siblings = children > grandparents > grandchildren based on which gender distinctions in grandchildren terms can arise after they are already present in other kinship terms on the left) and explore if the presence of sex-based gender systems facilitates distinctions between male and female kinship terms more broadly. </p> 
-<br>
 
 ## Nominal classification systems variation
 <p><em>Unraveling the interactions between culture and language: Does grammatical gender foster gender inequality and vice versa?</em> is a project awarded a Constructive Advanced Thinking grant for short stays and research visits for a team of early career researchers (with Neige Rochant, Pei-Ci Li, Chundra Cathcart, and Marc Allassonnière-Tang). The estimated funding corresponds to 60000 euros. </p>
