@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-#  - title: "Videos"
- #   url: /Videos/    
+  - title: "Videos"
+    url: /Videos/    
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
     
  # - title: "Publications"
   #  url: /https://scholar.google.com/citations?hl=de&user=HQn8VuMAAAAJ/
