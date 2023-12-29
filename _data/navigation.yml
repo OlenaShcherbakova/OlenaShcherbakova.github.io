@@ -1,7 +1,8 @@
 # main links 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ  
+    url: https://scholar.google.com/citations?user=HQn8VuMAAAAJ 
+    target: "_blank"
 
   - title: "Funded Projects"
     url: /funded_projects/
